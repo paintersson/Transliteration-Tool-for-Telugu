@@ -4,7 +4,7 @@ A lightweight, highly specialized browser-based transliteration tool built for e
 
 Designed to bridge the gap between rigid machine transliteration and natural human pronunciation, this engine goes beyond standard character-swapping APIs (like Google Translate). It acts as a custom linguistic compiler that understands **contextual pronunciation**—formatting text exactly how a native speaker reads and pronounces it.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.1-blue.svg)
 ![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-success.svg)
 ![Tech Stack](https://img.shields.io/badge/tech-HTML5%20|%20JS%20|%20Tailwind-indigo.svg)
 
