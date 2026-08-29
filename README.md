@@ -38,7 +38,7 @@ The engine processes text in three distinct layers:
 Because this tool is built with vanilla JavaScript and HTML, setup is instantaneous.
 
 1. Clone or download this repository.
-2. Open the `Telugu_engine.html` file directly in any modern web browser.
+2. Open the `index.html` file directly in any modern web browser.
 3. Paste your **Telugu** text into the left panel.
 4. Click **Transliterate All**.
 5. Copy the perfectly formatted English output for your database, app, or document.
@@ -47,7 +47,7 @@ Because this tool is built with vanilla JavaScript and HTML, setup is instantane
 
 If you want to adapt this tool for your own domain (e.g., medical, legal, regional dialects, or specific literature), you can easily edit the glossary or phonetic rules.
 
-Open the `.html` file in any text editor and locate the `transliterate()` function. You can add your own custom overrides here:
+Open the `index.html` file in any text editor and locate the `transliterate()` function. You can add your own custom overrides here:
 
 ```javascript
 // Add your own custom dictionary overrides here
